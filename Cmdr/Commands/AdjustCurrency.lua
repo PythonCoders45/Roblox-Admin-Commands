@@ -5,7 +5,7 @@ return {
     Group = "Admin",
     Args = {
         {
-            Type = "string",
+            Type = "currency",
             Name = "Currency",
             Description = "The currency you want to adjust."
         },
