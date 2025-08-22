@@ -7,8 +7,8 @@ local RunService = game:GetService("RunService")
 
 -- ===== Admin List =====
 local Admins = {
-    [12345678] = true, -- replace with your UserIds
-    [87654321] = true,
+    [] = true, -- replace with your UserIds
+    [] = true,
 }
 
 -- ===== RemoteEvent and RemoteFunction =====
