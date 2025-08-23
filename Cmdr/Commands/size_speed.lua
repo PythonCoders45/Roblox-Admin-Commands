@@ -4,8 +4,8 @@ local Players = game:GetService("Players")
 
 -- Admin list (UserIds)
 local Admins = {
-    [12345678] = true, -- replace with actual IDs
-    [87654321] = true,
+    [] = true, -- replace with actual IDs
+    [] = true,
 }
 
 return {
